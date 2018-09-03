@@ -1,0 +1,6 @@
+git rm -r --cached .
+git add .
+git commit -m 'update .gitignore'
+
+
+对于已经解决跟踪的需要先解决依赖才能生效
